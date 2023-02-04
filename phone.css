@@ -1,0 +1,81 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 0.9rem;
+    padding: 0px 0px;
+}
+
+#quote{
+    height: 512px;
+    padding: 3px 91px;
+}
+
+.black{
+    width: 300px;
+}
+
+#id1{
+    font-size: 1.5rem;
+}
+
+/* About Us */
+.info{
+
+}
+
+.title{
+    font-size: 16px;
+
+}
+
+.abt{
+    font-size: 10px;
+}
+
+/* Services */
+#service_container{
+
+}
+
+#box{
+    margin: 22px 43px;
+}
+
+.center{
+    font-size: 16px;
+    padding: 6px;
+}
+
+.main{
+    height: 97px;
+}
+
+#cen{
+    font-size: 16px;
+}
+
+.facility{
+    flex-direction: column;
+    padding-bottom: 55px;
+}
+
+/* Reviews */
+p.item{
+    font-size: 9px;
+}
+
+.testimonials{
+    width: 80vw;
+}
+
+.name{
+    font-size: 7px;
+}
+
+/* Address */
+.bottom{
+    flex-direction: column;
+}
