@@ -79,3 +79,13 @@ p.item{
 .bottom{
     flex-direction: column;
 }
+
+.map img{
+    height:110px;
+    width:110px;
+}
+
+#bottom{
+    display: flex;
+    flex-direction: column;
+}
